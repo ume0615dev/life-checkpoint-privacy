@@ -4,9 +4,9 @@ title: Life Checkpoint Privacy Policy
 
 # Life Checkpoint Privacy Policy
 
-Last updated: September 14, 2026
+Last updated: September 22, 2026
 
-Life Checkpoint is a Chrome extension that shows a check-in notification at the interval you choose,
+Life Checkpoint is a Chrome extension developed by Wellarc Studio ("we") that shows a check-in notification at the interval you choose,
 lets you answer "Doing good" or "Need to reset", and shows your recent trend in the popup.
 This policy explains what data the extension handles and how.
 
@@ -44,9 +44,8 @@ Older check-ins are deleted automatically the next time a check-in is recorded.
 
 We do not sell, transfer, or share your data with anyone.
 Your data is not used for advertising, and it is not used to determine creditworthiness or for lending purposes.
-The use of information handled by the extension adheres to the
-[Chrome Web Store User Data Policy](https://developer.chrome.com/docs/webstore/program-policies/user-data-faq),
-including the Limited Use requirements.
+The use of information handled by the extension adheres to the Chrome Web Store User Data Policy,
+including the [Limited Use](https://developer.chrome.com/docs/webstore/program-policies/limited-use) requirements.
 
 ## Deleting your data
 
@@ -69,5 +68,5 @@ If the extension ever starts sending data off your device, this policy will be u
 
 ## Contact
 
-If you have questions about this policy, please open an issue at
-<https://github.com/ume0615dev/life-checkpoint-privacy/issues>.
+If you have questions about this policy, please email <wellarc.studio@gmail.com>.
+You can also open an issue at <https://github.com/ume0615dev/life-checkpoint-privacy/issues>.
